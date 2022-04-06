@@ -8,7 +8,6 @@
   🌱 I’m currently learning Python, Discord bot and other<br>
   💬 ask me about anything, i am happy to help<br>
   💜 Interests: music, video games, programing language<br>
-  🎵 I love to hear japanese music.<br>
   ⚡ Fun fact: i like to play video games But I play a very noob xD
 
   Image by [SAU](https://twitter.com/bysau_/status/1197884610358763521) | 
