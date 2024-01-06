@@ -33,6 +33,8 @@
 [![TailwindCSS](https://img.shields.io/badge/-tailwindcss-06B6D4?style=for-the-badge&labelColor=0d1117&logo=tailwindcss&logoColor=06B6D4)](#)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&labelColor=0d1117&logo=mongodb&logoColor=47A248)](#)
 [![Unity](https://img.shields.io/badge/-unity-000000?style=for-the-badge&labelColor=0d1117&logo=unity&logoColor=000000)](#)
+[![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&labelColor=0d1117&logo=amazonaws&logoColor=FF9900)](#)
+[![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=for-the-badge&labelColor=0d1117&logo=stripe&logoColor=008CDD)](#)
 
 
     
