@@ -13,7 +13,11 @@
   Image by [SAU](https://twitter.com/bysau_/status/1197884610358763521) | 
   Inspired by [instance01](https://github.com/instance01/instance01)<br><br>
   
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21wzykzlqjdoxq5ihhpn4nl6i&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=21wzykzlqjdoxq5ihhpn4nl6i&cover_image=true&theme=natemoo-re&show_offline=true&background_color=2c2a2a&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21wzykzlqjdoxq5ihhpn4nl6i&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21wzykzlqjdoxq5ihhpn4nl6i&redirect=true)
+
+
+
+
 
     
   ## Tech Stack
